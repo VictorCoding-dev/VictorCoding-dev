@@ -3,7 +3,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Victor Lopes, tenho 16 anos e estou cursando o ensino médio. Atualmente, estou cursando na área de Eletromecânica. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Mundo em Vídeo](https://www.youtube.com/@mundoemv%C3%ADdeoOficial)", onde crio vídeos educativos sobre temas diversos.
+Me chamo Victor Lopes.  Atualmente, cursando na área de Eletromecânica. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Mundo em Vídeo](https://www.youtube.com/@mundoemv%C3%ADdeoOficial)", onde crio vídeos educativos sobre temas diversos.
 
 <p align="left">
     <a href="https://www.youtube.com/@mundoemvídeoOficial?sub_confirmation=1">
