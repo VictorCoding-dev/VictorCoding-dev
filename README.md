@@ -3,13 +3,13 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Victor Lopes.  Atualmente, cursando na área de Eletromecânica. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Mundo em Vídeo](https://www.youtube.com/@mundoemv%C3%ADdeoOficial)", onde crio vídeos educativos sobre temas diversos.
+Me chamo Victor Lopes.  Atualmente, cursando na área de Eletromecânica. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Mundo em Vídeo](https://www.youtube.com/@mundoemv%C3%ADdeoOficial)", onde faço vídeos sobre temas diversos.
 
 <p align="left">
     <a href="https://www.youtube.com/@mundoemvídeoOficial?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
+            title="Conheça meu canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
