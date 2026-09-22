@@ -1,5 +1,5 @@
 
-# 👨‍💻 Victor Lopes
+# Victor Lopes
 
 **`Desenvolvedor Back-end`**
 
