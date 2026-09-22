@@ -2,8 +2,7 @@
 # Victor Lopes
 
 **`Desenvolvedor Back-end`**
-
-Me chamo Victor Lopes.  Atualmente, cursando na área de Eletromecânica. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Mundo em Vídeo](https://www.youtube.com/@mundoemv%C3%ADdeoOficial)", onde faço vídeos sobre temas diversos.
+Sou apaixonado por tecnologia, e criação de projetos de IOT. Compartilho meu conhecimento através do meu canal no YouTube "[Mundo em Vídeo](https://www.youtube.com/@mundoemv%C3%ADdeoOficial)", onde faço vídeos sobre temas diversos
 
 <p align="left">
     <a href="https://www.youtube.com/@mundoemvídeoOficial?sub_confirmation=1">
