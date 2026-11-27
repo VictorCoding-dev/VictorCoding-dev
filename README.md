@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Um apaixonado por tecnologia, e criação de projetos IOT. Compartilho meu conhecimento através do meu canal no YouTube "[Mundo em Vídeo](https://www.youtube.com/@mundoemv%C3%ADdeoOficial)", onde pretendo fazer vídeos sobre temas diversos
+Apaixonado por Tecnologia a mais de 8 anos, e atualmente faço criação de projetos IOT. Também compartilho meu conhecimento através do meu canal no YouTube "[Mundo em Vídeo](https://www.youtube.com/@mundoemv%C3%ADdeoOficial)", onde pretendo fazer vídeos sobre temas diversos
 
 <p align="left">
   <a href="https://www.youtube.com/@mundoemvídeoOficial?sub_confirmation=1">
